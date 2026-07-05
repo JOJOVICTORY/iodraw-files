@@ -114,7 +114,9 @@
         <mxCell id="E_R2_3" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="R2_3" target="R2_6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
+              <mxPoint x="580" y="320" />
               <mxPoint x="720" y="320" />
+              <mxPoint x="800" y="300" />
             </Array>
           </mxGeometry>
         </mxCell>
