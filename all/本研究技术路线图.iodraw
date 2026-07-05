@@ -94,10 +94,10 @@
           <mxGeometry x="590" y="276" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="R2_4" value="区域/轨迹" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="555" y="195" width="95" height="35" as="geometry" />
+          <mxGeometry x="610" y="241" width="95" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R2_5" value="朝向/手部&#xa;相对位置" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="670" y="190" width="95" height="42" as="geometry" />
+          <mxGeometry x="610" y="190" width="95" height="42" as="geometry" />
         </mxCell>
         <mxCell id="R2_6" value="骨架+场景&#xa;特征融合分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="815" y="202" width="135" height="48" as="geometry" />
@@ -111,7 +111,7 @@
         <mxCell id="E_R2_2" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="R2_2" target="R2_3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="E_R2_3" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="R2_3" target="R2_6" edge="1">
+        <mxCell id="E_R2_3" style="endArrow=block;html=1;strokeColor=#333333;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="R2_G1" target="R2_6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="320" />
