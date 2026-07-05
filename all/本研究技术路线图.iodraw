@@ -84,9 +84,6 @@
         <mxCell id="R2_2" value="骨架关键点&#xa;序列提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="365" y="190" width="120" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="DDmxFh6pGtgk7c649xLG-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="R2_3" target="R2_2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="R2_3" value="关键关节/骨骼向量&#xa;关节速度增强" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="255" y="245" width="190" height="42" as="geometry" />
         </mxCell>
