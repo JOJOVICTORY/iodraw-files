@@ -112,7 +112,11 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="E_R2_3" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="R2_3" target="R2_6" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="320" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="E_R2_4" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="R2_4" target="R2_6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -151,7 +155,7 @@
           <mxGeometry x="835" y="404" width="135" height="42" as="geometry" />
         </mxCell>
         <mxCell id="R3_8" value="教学事件序列&#xa;与时间边界" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="404" width="110" height="42" as="geometry" />
+          <mxGeometry x="1000" y="402" width="110" height="42" as="geometry" />
         </mxCell>
         <mxCell id="E_R3_1" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="R3_1" target="R3_5" edge="1">
           <mxGeometry relative="1" as="geometry" />
