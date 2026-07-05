@@ -23,7 +23,7 @@
           <mxGeometry x="170" y="155" width="960" height="175" as="geometry" />
         </mxCell>
         <mxCell id="C3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff1ed;strokeColor=#a65d5d;dashed=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="170" y="340" width="960" height="165" as="geometry" />
+          <mxGeometry x="170" y="346" width="960" height="165" as="geometry" />
         </mxCell>
         <mxCell id="C4" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eaffea;strokeColor=#5c9a5c;dashed=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="170" y="535" width="960" height="105" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R3_G1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;" parent="1" vertex="1">
-          <mxGeometry x="195" y="360" width="300" height="125" as="geometry" />
+          <mxGeometry x="195" y="362" width="300" height="125" as="geometry" />
         </mxCell>
         <mxCell id="R3_G1_T" value="多模态证据构建" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="290" y="462" width="150" height="20" as="geometry" />
@@ -142,7 +142,7 @@
           <mxGeometry x="355" y="428" width="115" height="35" as="geometry" />
         </mxCell>
         <mxCell id="R3_5" value="时间对齐" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=13;" parent="1" vertex="1">
-          <mxGeometry x="535" y="402" width="110" height="42" as="geometry" />
+          <mxGeometry x="535" y="403" width="110" height="42" as="geometry" />
         </mxCell>
         <mxCell id="R3_6" value="质量感知&#xa;动态融合" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="680" y="402" width="120" height="42" as="geometry" />
