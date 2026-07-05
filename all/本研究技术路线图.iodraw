@@ -73,7 +73,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="R2_G1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;" parent="1" vertex="1">
-          <mxGeometry x="195" y="175" width="310" height="125" as="geometry" />
+          <mxGeometry x="195" y="175" width="310" height="135" as="geometry" />
         </mxCell>
         <mxCell id="R2_G1_T" value="专利骨架动作识别复用" style="text;html=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="280" y="276" width="160" height="20" as="geometry" />
