@@ -97,7 +97,7 @@
         <mxCell id="a4" value="模态质量估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="745" y="332" width="210" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="a5" value="窗口级多模态样本&#xa;{h_i, p_i, q_i}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="a5" value="窗口级多模态样本&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="995" y="335" width="130" height="52" as="geometry" />
         </mxCell>
         <mxCell id="ea1" style="endArrow=block;html=1;strokeColor=#333333;" parent="1" source="a1" target="a2" edge="1">
@@ -127,7 +127,7 @@
         <mxCell id="cross5" style="endArrow=block;html=1;strokeColor=#333333;dashed=1;" parent="1" source="e5" target="a1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="f1" value="质量感知门控网络&#xa;w_i = Softmax(G(q_i, p_i, h_stage))" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="f1" value="质量感知门控网络" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="115" y="505" width="260" height="52" as="geometry" />
         </mxCell>
         <mxCell id="f2" value="动态融合表示&#xa;H_t = Σ w_i · W_i h_i" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
