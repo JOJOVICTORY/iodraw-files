@@ -77,7 +77,7 @@
           <mxGeometry x="580" y="270" width="520" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g2t" value="轻量课堂场景特征分支" style="text;html=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="760" y="360" width="190" height="20" as="geometry" />
+          <mxGeometry x="760" y="354" width="190" height="20" as="geometry" />
         </mxCell>
         <mxCell id="c21" value="教师所在区域" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="600" y="298" width="105" height="38" as="geometry" />
