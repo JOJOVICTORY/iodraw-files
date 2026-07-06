@@ -97,7 +97,7 @@
         <mxCell id="m2" value="场景特征编码器&#xa;数值特征 + MLP" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="430" y="488" width="180" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="m3" value="特征拼接与分类器&#xa;12类视觉教师行为" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="m3" value="特征拼接与分类器&lt;br&gt;24类教师行为" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="675" y="488" width="190" height="52" as="geometry" />
         </mxCell>
         <mxCell id="m4" value="时序平滑与片段合并&#xa;短时孤立标签修正" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#a65d5d;fontSize=14;" parent="1" vertex="1">
