@@ -62,7 +62,7 @@
           <mxGeometry x="70" y="270" width="455" height="110" as="geometry" />
         </mxCell>
         <mxCell id="g1t" value="骨架动作特征分支" style="text;html=1;strokeColor=none;fillColor=none;fontSize=15;fontStyle=1;" parent="1" vertex="1">
-          <mxGeometry x="220" y="360" width="160" height="20" as="geometry" />
+          <mxGeometry x="220" y="351" width="160" height="20" as="geometry" />
         </mxCell>
         <mxCell id="s1" value="关键关节特征&#xa;手腕/手肘/肩部" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="90" y="295" width="125" height="45" as="geometry" />
