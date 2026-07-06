@@ -94,7 +94,7 @@
         <mxCell id="a3" value="动作-话语错位补偿&#xa;前后扩展 ±3s" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="515" y="335" width="175" height="52" as="geometry" />
         </mxCell>
-        <mxCell id="a4" value="模态质量估计&#xa;q_visual/q_text/q_audio/q_student" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="a4" value="模态质量估计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="745" y="332" width="210" height="58" as="geometry" />
         </mxCell>
         <mxCell id="a5" value="窗口级多模态样本&#xa;{h_i, p_i, q_i}" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#4f6f9f;fontSize=14;" parent="1" vertex="1">
